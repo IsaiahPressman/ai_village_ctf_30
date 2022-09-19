@@ -1,9 +1,7 @@
 # ai_village_ctf_30
 
 This repository contains my solutions for the [AI Village Capture the Flag @ DEFCON](https://www.kaggle.com/competitions/ai-village-ctf) Kaggle competition.
-I won the competition by being the first competitor to complete 21 out of the 22 problems. No one solved the 22nd problem.
-
-Here is a brief write-up of my experience, copied from the [Kaggle forums](https://www.kaggle.com/competitions/ai-village-ctf/discussion/353536):
+I won the competition by being the first competitor to complete 21 out of the 22 problems. No one solved the 22nd problem. Here is a brief write-up of my experience, copied from the [Kaggle forums](https://www.kaggle.com/competitions/ai-village-ctf/discussion/353536):
 
 First of all, thanks to the organizers for putting on a wonderful competition! I had a ton of fun with this novel format, and found the fast puzzle-solving nature of it quite addicting. The weekend when this competition launched was a long and sleep-deprived one! Many other competitors have gone over their solutions, and I don't have much to add, but I will briefly cover my general strategic approach and the solutions I found for each of the problems. A particular shoutout to [Chris Deotte's notebook](https://www.kaggle.com/code/cdeotte/solutions-d3fc0n-ctf-lb-0-894), which is well written and solves all of the problems in a principled way. For those looking for the code to my solutions, it is rather messy, but can be found on GitHub: [https://github.com/IsaiahPressman/ai_village_ctf_30](https://github.com/IsaiahPressman/ai_village_ctf_30)
 
